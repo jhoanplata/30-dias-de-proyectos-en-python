@@ -8,6 +8,8 @@ La idea es realizar un Fork de este proyecto, crear una rama por retor y disfrut
 
 Luego de hacer Fork del proyecto pueden agregar su nombre en la lista de Contributors de este proyecto en el archivo que encuentran en la raíz del repo llamado Contributors.md, luego crean un Pull Request la cual aprobaré para que sus nombres estén en este proyecto que es de todos.
 
+Ya que están aquí los invito a seguirme en mi [perfil](https://github.com/judlup) de GitHub.
+
 ¡Happy coding!
 
 Judlup.
@@ -54,6 +56,6 @@ Judlup.
 
 ## Contacto
 
-[@TryCatch_dot](https://www.tiktok.com/@trycatch_dot)
+[@TryCatch.tv](https://www.tiktok.com/@trycatch.tv)
 
-[Linktr.ee](https://linktr.ee/trycatch_dot)
+[Linktr.ee](https://linktr.ee/trycatch.tv)
